@@ -1,25 +1,26 @@
-Stock Analysis Project
+# Stock Analysis Project  
 
-This project analyzes the stock performance and revenue data of Tesla (TSLA) and GameStop (GME).
-The goal is to scrape financial data, clean it, and visualize the relationship between share prices and company revenue up to June 2021.
+This project analyzes the stock performance and revenue data of **Tesla (TSLA)** and **GameStop (GME)**.  
+The goal is to scrape financial data, clean it, and visualize the relationship between **share prices** and **company revenue** up to June 2021.  
 
-📊 Features
+## 📊 Features  
+- Web scraping revenue data using **BeautifulSoup**  
+- Data cleaning and preprocessing with **Pandas**  
+- Interactive visualizations with **Plotly**  
+- Comparison of stock prices and revenues  
 
-Web scraping stock revenue data using BeautifulSoup
+## 🚀 Technologies  
+- Python  
+- Pandas  
+- BeautifulSoup  
+- Plotly  
 
-Data cleaning and preprocessing with Pandas
+## 📈 Visualizations  
+The project generates two graphs for each company:  
+1. Stock Price over time  
+2. Revenue over time  
 
-Interactive visualizations with Plotly
-
-Comparison of stock prices and revenues
-
-🚀 Technologies
-
-Python
-
-Pandas
-
-BeautifulSoup
+## 🗂 Project Structure  
 
 Plotly
 
